@@ -1,0 +1,14 @@
+{
+    "name": "Hello World!",
+    "description": "Testing Lua",
+    "author": "8fn",
+    "contact": "https://github.com/8fn/DLC-Unlocker-PD2",
+    "version": "v1.0.0",
+    
+    "hooks": [
+    {
+        "hook_id": "lib/managers/dlcmanager",
+        "script_path": "dlc-unlocker.lua"
+    }
+    ]
+}
